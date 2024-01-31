@@ -3,7 +3,7 @@ This is a Pokédex web application built using ReactJS, Redux Toolkit and Axios.
 
 ## Live Link
 
-[https://pokedexreactjsfr.netlify.app)
+[https://pokedexreactjseng.netlify.app/)
 
 ## - **Search Page:** Users can search for Pokémon by name. The app makes an API call to retrieve Pokémon data and displays loading indicators and error messages if necessary.
 
