@@ -28,7 +28,7 @@ This is a Pokédex web application built using ReactJS, Redux Toolkit and Axios.
 
 - Clone the repository to your local machine:
 ```bash
-git clone https://github.com/Fahd-code/Pokedex-React-JS-FR.git
+git clone https://github.com/Fahd-code/Pokedex-React-JS-Eng.git
 - Go to the project directory:
 ```bash
 cd Pokedex-en-ReactJS
